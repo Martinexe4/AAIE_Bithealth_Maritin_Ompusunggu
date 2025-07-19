@@ -27,16 +27,16 @@ Pastikan versi Python yang terdapat perangkat sesuai dengan syarat **Versi Pytho
 ### 1.2 Google AI API Key: 
 Disini kita memerlukan API Key dari Google AI Studio dengan mengikuti langkah-langkah berikut: 
 - Kunjungi [aistudio.google.com](aistudio.google.com) 
-    ![Tampilan Google AI Studio](image.png)
+    ![Tampilan Google AI Studio](./images//image.png)
 
 - Pilih button `Get API Key`
-    ![Tampilan setelah memilih Get API Key](image-1.png)
+    ![Tampilan setelah memilih Get API Key](./images//image-1.png)
 
 - Pilih menu `API Keys` lalu `Create API Key`, Selanjutnya akan muncul pop up menu untuk membuat/pilih project. Lalu create dan salin API key nya ke `.env`.
     - Gambar tampilan memilih proyek
-    ![create/use exsitsing project](image-2.png)
+    ![create/use exsitsing project](./images//image-2.png)
     - Gambar tampilan Generate Key
-    ![API Key Generated](image-3.png)
+    ![API Key Generated](./images//image-3.png)
 
 
 ## 2. Instalasi dan Setup
@@ -81,7 +81,7 @@ Jalankan perintah berikut untuk menyalakan server:
     uvicorn main:app --reload
 
 - Tampilan FastAPI Berjalan dengan Baik
-    ![alt text](image-4.png)
+    ![alt text](./images//image-4.png)
 
 Server sekarang berjalan di `http://127.0.0.1:8000`. Biarkan jendela terminal ini tetap terbuka.
 - Jika Anda ingin melihat dokumentasi teknis dari API atau mengujinya secara langsung, buka alamat berikut di browser Anda:
@@ -92,10 +92,10 @@ Disini bisa melihat detail endpoint /recommend dan bahkan mencobanya langsung da
 
 - Melakukan rekomendasi departements di FastAPI/Swagger UI dengan menggunakan `http://127.0.0.1:8000/docs` 
     - Pilih **Try it out**
-    ![alt text](image-5.png)
+    ![alt text](./images//image-5.png)
 
     - Eksekusi JSON
-    ![alt text](image-6.png)
+    ![alt text](./images//image-6.png)
 
     - Isi value JSON-nya gender(male/female), age, symptoms
     - Setelah itu `Execute`. Nanti hasil rekomendasi akan tampil di section `Responses`.
@@ -105,4 +105,4 @@ Disini bisa melihat detail endpoint /recommend dan bahkan mencobanya langsung da
 ### 3.2 Web UI
 - Gunakan exstension `Live Server` untuk menjalankan proyek atau salin Path file `index.html` lalu salin ke Web Browser(**pastikan FastAPI, API Key Google sudah berjalan dengan baik**).
 - `index.html` akan terbuka di browser default Anda, dan Anda bisa langsung mengisi formulir untuk mendapatkan rekomendasi.
-    ![alt text](image-9.png)
+    ![alt text](./images//image-9.png)
