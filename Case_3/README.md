@@ -14,6 +14,12 @@ Proyek ini adalah sebuah layanan API  yang dibangun menggunakan **FastAPI** untu
 - Validasi Data: Pydantic untuk memastikan integritas data yang masuk dan keluar.
 - Dokumentasi Otomatis: Dokumentasi API tersedia di endpoint /docs.
 
+## Additional Note
+Ini merupakan informasi terkait file-file yang ada di proyek ini, antara lain:
+- `main.py` = File berisi terkait kode program untuk mengakses FastAPI
+- `index.html` = File berisi tampilan Front End
+- `.env.example` = file ini setelah repo ini di Clone atau diundung Anda harus mengganti menjadi `.env` dan memasukan API Key Google dengan tutorial dibawah ini yaa!
+
 ## 1. Persiapan (Prerequisites)
 Pastikan perangkat telah terinstal:
 ### 1.1 Python (versi >= 3.8).
