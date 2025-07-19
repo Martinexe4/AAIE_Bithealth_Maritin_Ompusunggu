@@ -6,7 +6,7 @@
 Proyek ini adalah sebuah layanan API  yang dibangun menggunakan **FastAPI** untuk memberikan rekomendasi departemen rumah sakit berdasarkan gejala yang dimasukkan oleh pasien. Sistem ini memanfaatkan **Large Language Model (LLM)** dari Google melalui LangChain untuk menganalisis data dan memberikan rekomendasi berbasis AI.
 
 # PENTING: Cara Akses
-- Live Demo: [RujukCerdasAI](https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted/) -> Untuk mengakses secara langsung. Catatan: Untuk memastikan integritas kode dan menghindari konflik dengan file pengembangan lokal, pengerjaan proyek ini dilakukan dalam sebuah repositori khusus untuk deployment [https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted](https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted/)
+- `Live Demo`: [RujukCerdasAI](https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted/) -> Untuk mengakses secara langsung. **Catatan: Untuk memastikan integritas kode dan menghindari konflik dengan file pengembangan lokal, pengerjaan proyek ini dilakukan dalam sebuah repositori khusus untuk deployment** [https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted](https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted/)
 - Atau bisa mengakses dengan cara instalasi dengan langkah-langkah berikut
 
 ## Tools/Frameworks
