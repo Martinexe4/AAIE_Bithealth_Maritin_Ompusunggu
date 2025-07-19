@@ -16,6 +16,7 @@ Proyek ini adalah sebuah layanan API  yang dibangun menggunakan **FastAPI** untu
 - Frontend: HTML, CSS (Tailwind), dan JavaScript
 - Validasi Data: Pydantic untuk memastikan integritas data yang masuk dan keluar.
 - Dokumentasi Otomatis: Dokumentasi API tersedia di endpoint /docs.
+- Deployment: Railway, Github Pages
 
 ## Additional Note
 Ini merupakan informasi terkait file-file yang ada di proyek ini, antara lain:
