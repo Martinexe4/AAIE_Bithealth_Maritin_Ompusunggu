@@ -32,7 +32,7 @@ Disini kita memerlukan API Key dari Google AI Studio dengan mengikuti langkah-la
 - Pilih button `Get API Key`
     ![Tampilan setelah memilih Get API Key](image-1.png)
 
-- Pilih menu `API Keys` lalu `Create API Key`, Selanjutnya akan muncul pop up menu untuk membuat/pilih project. Lalu create dan salin API key nya.
+- Pilih menu `API Keys` lalu `Create API Key`, Selanjutnya akan muncul pop up menu untuk membuat/pilih project. Lalu create dan salin API key nya ke `.env`.
     - Gambar tampilan memilih proyek
     ![create/use exsitsing project](image-2.png)
     - Gambar tampilan Generate Key
