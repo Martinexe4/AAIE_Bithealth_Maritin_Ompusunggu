@@ -7,7 +7,7 @@ Proyek ini adalah sebuah layanan API  yang dibangun menggunakan **FastAPI** untu
 
 # PENTING: Cara Akses
 - `Live Demo`: [RujukCerdasAI](https://tinn444.github.io/AAIE_Bithealth_Martin_Ompusunggu_hosted/) -> Untuk mengakses secara langsung. **Catatan: Untuk memastikan integritas kode dan menghindari konflik dengan file pengembangan lokal, pengerjaan proyek ini dilakukan dalam sebuah repositori khusus untuk deployment** [https://github.com/tinn444/AAIE_Bithealth_Martin_Ompusunggu_hosted](https://github.com/tinn444/AAIE_Bithealth_Martin_Ompusunggu_hosted)
-- Atau bisa mengakses dengan cara instalasi dengan langkah-langkah berikut
+- Atau bisa mengakses `secara lokal` dengan cara instalasi dengan langkah-langkah berikut
 
 ## Tools/Frameworks
 - IDE: Visual Studio Code
