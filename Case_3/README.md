@@ -8,6 +8,7 @@
 Proyek ini adalah sebuah layanan API  yang dibangun menggunakan **FastAPI** untuk memberikan rekomendasi departemen rumah sakit berdasarkan gejala yang dimasukkan oleh pasien. Sistem ini memanfaatkan **Large Language Model (LLM)** dari Google melalui LangChain untuk menganalisis data dan memberikan rekomendasi berbasis AI.
 
 ## Tools/Frameworks
+- IDE: Visual Studio Code
 - Backend API: FastAPI
 - Integrasi AI: LangChain, Google API, gemini-1.5-flash
 - Frontend: HTML, CSS (Tailwind), dan JavaScript
