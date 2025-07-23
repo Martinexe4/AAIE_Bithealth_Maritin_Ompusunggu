@@ -1,6 +1,4 @@
-### Case 3: End-to-End Mini Project
 ### Name: Martin Ompusunggu
-### Role: Associate AI Engineer Candidate
 
 # RujukCerdas
 Proyek ini adalah sebuah layanan API  yang dibangun menggunakan **FastAPI** untuk memberikan rekomendasi departemen rumah sakit berdasarkan gejala yang dimasukkan oleh pasien. Sistem ini memanfaatkan **Large Language Model (LLM)** dari Google melalui LangChain untuk menganalisis data dan memberikan rekomendasi berbasis AI.
